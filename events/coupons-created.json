@@ -1,0 +1,66 @@
+{
+  "data": {
+    "source": "coupons/MOBRTI00016D2900044783000CD699002683E300738BC9015AA383040FEAB90C",
+    "id": 2,
+    "author": "user:MATRIX",
+    "data": {
+      "payload": {
+        "id": "MOBRTI00016D2900044783000CD699002683E300738BC9015AA383040FEAB90C",
+        "benefit": "0.3",
+        "benefitDetail": "- Válido en calzado de temporada.\n- Válido para usar cualquier día de la semana.\n- Máximo 1 uso durante la vigencia de la campaña.\n- Válido solo para tiendas físicas.\n- Dscto. máximo S/ 100.\n- Descuento aplica sobre precio de etiqueta y no incluye accesorios ni productos de limpieza.\n- Descuento no acumulable ni válido con otras promociones.\n- Aplica para Tarjeta física iO y Google Wallet",
+        "benefitUse": "Antes de realizar tu pago, asegúrate de mostrar este descuento desde la App y presentar tu DNI.",
+        "category": "Tienda de calzado",
+        "channel": "Presencial",
+        "codeIO": "",
+        "creationDate": "2025-04-15",
+        "customerLoyaltyLevel": "1, 2, 3, 4, 5",
+        "expirationDate": "2025-12-31",
+        "img": {
+          "binderImg": "coupons/img/Bruno Ferrini",
+          "bucketImg": "s3-dev-matrix-coupons-media-01",
+          "internal": "INTERNAL1.png",
+          "logo": "LOGO.png",
+          "preview": "PREVIEW.png"
+        },
+        "localAppliesDiscount": "Aplica a nivel nacional, de acuerdo a la cobertura del establecimiento.",
+        "offerTitle": "En calzado de temporada",
+        "partnerName": "Bruno Ferrini",
+        "startDate": "2025-03-11",
+        "termsConditions": "30% dcto. Válido en calzado de temporada. Válido para un descuento máximo de S/100. Válido solo para tiendas físicas. Descuento aplica sobre precio de etiqueta. No incluye accesorios ni productos de limpieza. Consultar al personal de la tienda por el calzado de temporada, ya que varía según la provincia donde se encuentre. Descuento no acumulable ni válido con otras promociones.Para acceder al beneficio el cliente deberá solicitarlo en el establecimiento al momento de pedir su cuenta y pagar con su Tarjeta de crédito iO en formato físico o con la Billetera de Google (Google Pay) desde su celular Android. Válido para un solo uso por cliente desde el 01/04/2024 hasta el 30/06/2024. Si el cliente usa su tarjeta física por primera vez, deberá activarla a través de su APP iO, caso contrario, esta no podrá ser utilizada y se bloqueará automáticamente. Es responsabilidad del cliente tener activa su tarjeta de crédito física al momento de pagar en el establecimiento. Tarjeta de crédito iO Visa no se responsabilizará por la idoneidad del producto o servicio brindado por el establecimiento ni por cualquier daño o perjuicio que pudiera derivarse del mismo. iO podrá, previa comunicación a los Clientes, modificar alguno de los términos establecidos en el presente texto, únicamente cuando dicho cambio no afecte la naturaleza de la promoción.",
+        "title": "Moda y Belleza"
+      },
+      "snapshot": {
+        "id": "MOBRTI00016D2900044783000CD699002683E300738BC9015AA383040FEAB90C",
+        "benefit": "0.3",
+        "benefitDetail": "- Válido en calzado de temporada.\n- Válido para usar cualquier día de la semana.\n- Máximo 1 uso durante la vigencia de la campaña.\n- Válido solo para tiendas físicas.\n- Dscto. máximo S/ 100.\n- Descuento aplica sobre precio de etiqueta y no incluye accesorios ni productos de limpieza.\n- Descuento no acumulable ni válido con otras promociones.\n- Aplica para Tarjeta física iO y Google Wallet",
+        "benefitUse": "Antes de realizar tu pago, asegúrate de mostrar este descuento desde la App y presentar tu DNI.",
+        "category": "Tienda de calzado",
+        "channel": "Presencial",
+        "codeIO": "",
+        "creationDate": "2025-04-15",
+        "customerLoyaltyLevel": "1, 2, 3, 4, 5",
+        "expirationDate": "2025-12-31",
+        "img": {
+          "binderImg": "coupons/img/Bruno Ferrini",
+          "bucketImg": "s3-dev-matrix-coupons-media-01",
+          "internal": "INTERNAL1.png",
+          "logo": "LOGO.png",
+          "preview": "PREVIEW.png"
+        },
+        "localAppliesDiscount": "Aplica a nivel nacional, de acuerdo a la cobertura del establecimiento.",
+        "offerTitle": "En calzado de temporada",
+        "partnerName": "Bruno Ferrini",
+        "startDate": "2025-03-11",
+        "status": "CREATED",
+        "termsConditions": "30% dcto. Válido en calzado de temporada. Válido para un descuento máximo de S/100. Válido solo para tiendas físicas. Descuento aplica sobre precio de etiqueta. No incluye accesorios ni productos de limpieza. Consultar al personal de la tienda por el calzado de temporada, ya que varía según la provincia donde se encuentre. Descuento no acumulable ni válido con otras promociones.Para acceder al beneficio el cliente deberá solicitarlo en el establecimiento al momento de pedir su cuenta y pagar con su Tarjeta de crédito iO en formato físico o con la Billetera de Google (Google Pay) desde su celular Android. Válido para un solo uso por cliente desde el 01/04/2024 hasta el 30/06/2024. Si el cliente usa su tarjeta física por primera vez, deberá activarla a través de su APP iO, caso contrario, esta no podrá ser utilizada y se bloqueará automáticamente. Es responsabilidad del cliente tener activa su tarjeta de crédito física al momento de pagar en el establecimiento. Tarjeta de crédito iO Visa no se responsabilizará por la idoneidad del producto o servicio brindado por el establecimiento ni por cualquier daño o perjuicio que pudiera derivarse del mismo. iO podrá, previa comunicación a los Clientes, modificar alguno de los términos establecidos en el presente texto, únicamente cuando dicho cambio no afecte la naturaleza de la promoción.",
+        "title": "Moda y Belleza"
+      }
+    },
+    "dataContentType": "application/json",
+    "dataEncodingType": "identity",
+    "time": 1744755881,
+    "transaction": "1f062e5b-a251-4edb-bcf2-13c97e488a15",
+    "type": "pe.io.vads.coupon.updated.v1"
+  },
+  "topic": "pe.io.vads.coupon.updated.v1"
+}
