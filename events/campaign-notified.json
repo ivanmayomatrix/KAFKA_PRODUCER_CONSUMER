@@ -1,0 +1,34 @@
+{
+  "data": {
+    "source": "campaign-execution/RAECAAFwnUSneIa0ZXkmq8EdkAM==",
+    "id": 1,
+    "author": "system:customerio",
+    "data": {
+      "payload": {
+        "actionId": 42,
+        "campaignId": "CAMDEV-8",
+        "createdAt": "2024-12-20T15:36:03.495Z",
+        "customerId": "3851a20a-7cfa-46f6-aa7b-dd8063fcdc52",
+        "deliveryId": "RAECAAFwnUSneIa0ZXkmq8EdkAM==",
+        "event": {
+          "channel": "email",
+          "eventId": "01E2EMRMM6TZ12TF9WGZN0WJQT",
+          "metric": "sent",
+          "timestamp": 1734708958
+        },
+        "externalCustomerId": 23,
+        "identifiers": {
+          "id": "3851a20a-7cfa-46f6-aa7b-dd8063fcdc52"
+        },
+        "recipient": "ivan.mayo.matrix@gmail.com",
+        "subject": "Thanks for signing up"
+      }
+    },
+    "dataContentType": "application/json",
+    "dataEncodingType": "identity",
+    "time": 1734708963495,
+    "transaction": "b39c32d7-784c-40c1-b433-18fd221d4836",
+    "type": "pe.io.sale.campaign-execution.notified.v1"
+  },
+  "topic": "pe.io.sale.campaign-execution.notified.v1"
+}

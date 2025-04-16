@@ -1,0 +1,147 @@
+{
+  "data": {
+    "data": {
+      "payload": {
+        "date": "2024-12-06T23:31:29.042Z",
+        "amount": 120,
+        "metadata": {
+          "customer": {
+            "totalRewardAmount": {
+              "N": "120"
+            },
+            "ruleRewardEarned": {
+              "S": "CAM-12"
+            },
+            "rewardType": {
+              "S": "cashback"
+            },
+            "customerId": {
+              "S": "3851a20a-7cfa-46f6-aa7b-dd8063fcdc52"
+            },
+            "currency": {
+              "S": "PEN"
+            },
+            "expireAt": {
+              "N": "1745429888236"
+            },
+            "ruleId": {
+              "S": "CAM-12"
+            },
+            "updatedAt": {
+              "S": "2024-12-06T23:31:29.042Z"
+            },
+            "status": {
+              "S": "reward-progress-updated"
+            }
+          }
+        },
+        "notificationDescription": "Ganaste campaña lalalala",
+        "cardReferenceId": "525010790016",
+        "campaignId": "CAM-12",
+        "origin": "cashback",
+        "concept": "hitos",
+        "description": "Cashback por hitos",
+        "sendNotification": [
+          {
+            "template": "cashback_awarded_notification",
+            "channel": "email"
+          },
+          {
+            "template": "cashback_awarded_notification",
+            "channel": "push"
+          }
+        ],
+        "type": "award",
+        "createdAt": "2025-02-14T18:43:07.597Z",
+        "campaign": {
+          "reward": "Cashback por logros",
+          "endDate": "2025-12-05",
+          "name": "Prueba 2",
+          "description": "Descripcion de la prueba 2 23",
+          "id": "CAM-12",
+          "shortName": "nombrecortocampaign",
+          "type": "Activación",
+          "startDate": "2024-11-29"
+        },
+        "customer": "3851a20a-7cfa-46f6-aa7b-dd8063fcdc52",
+        "status": "AWARDED",
+        "updatedAt": "2025-02-14T18:43:07.597Z"
+      },
+      "snapshot": {
+        "date": "2024-12-06T23:31:29.042Z",
+        "amount": 2,
+        "metadata": {
+          "customer": {
+            "totalRewardAmount": {
+              "N": "120"
+            },
+            "ruleRewardEarned": {
+              "S": "CAM-12"
+            },
+            "rewardType": {
+              "S": "cashback"
+            },
+            "customerId": {
+              "S": "3851a20a-7cfa-46f6-aa7b-dd8063fcdc52"
+            },
+            "currency": {
+              "S": "PEN"
+            },
+            "expireAt": {
+              "N": "1745429888236"
+            },
+            "ruleId": {
+              "S": "CAM-12"
+            },
+            "updatedAt": {
+              "S": "2024-12-06T23:31:29.042Z"
+            },
+            "status": {
+              "S": "reward-progress-updated"
+            }
+          }
+        },
+        "notificationDescription": "Ganaste campaña lalalala",
+        "cardReferenceId": "525010790016",
+        "campaignId": "CAM-12",
+        "origin": "cashback",
+        "concept": "hitos",
+        "description": "Cashback por hitos",
+        "sendNotification": [
+          {
+            "template": "cashback_awarded_notification",
+            "channel": "email"
+          },
+          {
+            "template": "cashback_awarded_notification",
+            "channel": "push"
+          }
+        ],
+        "type": "award",
+        "createdAt": "2025-02-14T18:43:07.597Z",
+        "campaign": {
+          "reward": "Cashback por logros",
+          "endDate": "2025-12-05",
+          "name": "Prueba 2",
+          "description": "Descripcion de la prueba 2 23",
+          "id": "CAM-12",
+          "shortName": "nombrecortocampaign",
+          "type": "Activación",
+          "startDate": "2024-11-29"
+        },
+        "customer": "3851a20a-7cfa-46f6-aa7b-dd8063fcdc52",
+        "status": "AWARDED",
+        "updatedAt": "2025-02-14T18:43:07.597Z"
+      }
+    },
+    "author": "6d9b2a94-deec-4ed5-bade-331e22248cd3",
+    "id": 1,
+    "source": "cashback/award/3851a20a-7cfa-46f6-aa7b-dd8063fcdc52/CAM-12#hitos",
+    "time": 1739558587597,
+    "dataContentType": "application/json",
+    "type": "pe.io.vads.cashback.awarded.v1",
+    "transaction": "a97f951f-68e2-493f-a6d3-492f0add0f77",
+    "dataEncodingType": "identity"
+  },
+  "topic": "pe.io.vads.cashback.awarded.v1"
+}

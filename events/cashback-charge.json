@@ -1,0 +1,32 @@
+{
+    "data":{
+      "source": "cashback/redemption/24e4c824-41b1-44b4-8742-a8ecfe3010c3/9da8eb06-1a17-4ecb-a509-eb31705939a9",
+      "id": 1,
+      "author": "user:5ea7524b-589c-48c7-a022-cd3bec9e9917",
+      "data": {
+       "payload": {
+        "account": "09a44041-c420-42b3-9ffd-442acfd4ae01",
+        "amount": 10,
+        "user": "5ea7524b-589c-48c7-a022-cd3bec9e9917"
+       },
+       "snapshot": {
+        "id": "9da8eb06-1a17-4ecb-a509-eb31705939a9",
+        "account": "09a44041-c420-42b3-9ffd-442acfd4ae01",
+        "amount": 10,
+        "createdAt": "2024-09-10T20:07:49.823Z",
+        "customer": "24e4c824-41b1-44b4-8742-a8ecfe3010c3",
+        "dateFormatted": "2024-09-10T15:07:49.823-05:00",
+        "status": "REQUESTED",
+        "type": "redemption",
+        "updatedAt": "2024-09-10T20:07:49.823Z",
+        "user": "5ea7524b-589c-48c7-a022-cd3bec9e9917"
+       }
+      },
+      "dataContentType": "application/json",
+      "dataEncodingType": "identity",
+      "time": 1725998869823,
+      "transaction": "c4065416-2bc8-4498-9638-b059221fbb14",
+      "type": "pe.io.vads.cashback.redemption-applied.v1"
+     },
+     "topic":"pe.io.vads.cashback.redemption-applied.v1"
+  }
